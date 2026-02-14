@@ -1,6 +1,5 @@
-# sprint_12_project
+# Rusty Bargain Used Car Price Prediction Project
 
-Rusty Bargain Used Car Price Prediction Project
 ### Problem Context:
 Development of a machine learning system for Rusty Bargain used car service to predict market values of vehicles based on historical data including technical specifications, trim levels, and prices, enabling rapid price estimation for customers.
 
